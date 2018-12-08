@@ -61,11 +61,11 @@ and you forever.
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;------莎士比亚
    
 * >Do not fall in love with people like me.  
-   I will take you to museums, and parks, and moments,  
+   I will take you to museums, and parks, and moments, 
    <br>
    And kiss you in every beautiful place,  
-   so that you can never go back to them  
-   Without tasting me like blood in your mouth.  
+   so that you can never go back to them
+   Without tasting me like blood in your mouth.
    <br>
    I will destroy you in the most beautiful way possible.  
    And when I leave you will finally understand,  
@@ -83,7 +83,6 @@ and you forever.
    而当你离我而去时，  
    你终将明白  
    为什么毁灭性的飓风都以人名命名。
-   *译为：*   
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;------Caitlyn Siehl
       
 * >Some of us get dipped in flat,  
