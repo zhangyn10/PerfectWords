@@ -50,20 +50,20 @@
    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;------莎士比亚
    
 * >Do not fall in love with people like me.  
-   I will take you to museums, and parks, and moments, 
+   I will take you to museums, and parks, and moments,  
    <br>
    And kiss you in every beautiful place,  
-   so that you can never go back to them
-   Without tasting me like blood in your mouth.
+   so that you can never go back to them  
+   Without tasting me like blood in your mouth.  
    <br>
    I will destroy you in the most beautiful way possible.  
    And when I leave you will finally understand,  
-   why storms are named after people.    
+   why storms are named after people.  
    *译为：*  
    不要爱上像我这样的人，  
-   我会带你逛博物馆、公园、各种遗址，  
-   <br>
-   在每个迷人的地方亲吻你，  
+   我会带你逛博物馆、公园、各种遗址，
+   <br>   
+   在每个迷人的地方亲吻你，   
    以至于当你再回到这些地方时  
    已无法忘记与我亲吻的滋味，  
    就像口中含血一般。  
