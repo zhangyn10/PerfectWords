@@ -4,28 +4,17 @@
 
 ---
 #####这个是第一篇 ---英文篇
-* >I love there things in the world,
-<br>
-sun, moon and you,
-<br>
-sun for morning,
-<br>
-moon for night,
-<br>
-and you forever.
-<br>
-**译为：**
-<br>
-浮世三千 吾爱有三
-<br>
-日 月 卿
-<br>
-日为朝
-<br>
-月为暮
-<br>
-卿为朝朝暮暮
-<br>
+* >I love there things in the world,  
+   sun, moon and you,  
+   sun for morning,  
+   moon for night,  
+   and you forever.  
+   **译为：**  
+   浮世三千 吾爱有三  
+   日 月 卿  
+   日为朝  
+   月为暮  
+   卿为朝朝暮暮  
     &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;------泰戈尔《飞鸟集》
 
 * >If I should meet thee  
