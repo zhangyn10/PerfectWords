@@ -1,9 +1,9 @@
-#My first words
-#####description:
-######2018	年 12 月 8 日，突然想要将自己看到的一些很有意境句子记录下来，本来是想写到笔记本上的，但是写过之后发现自己的字是在是糟糕，于是创建了一个git project 用于记录（毕竟还是一个程序员啊。。。）
+# My first words
+##### description:
+###### 2018	年 12 月 8 日，突然想要将自己看到的一些很有意境句子记录下来，本来是想写到笔记本上的，但是写过之后发现自己的字是在是糟糕，于是创建了一个git project 用于记录（毕竟还是一个程序员啊。。。）
 
 ---
-#####这个是第一篇 ---英文篇
+##### 这个是第一篇 ---英文篇
 * >I love there things in the world,  
    sun, moon and you,  
    sun for morning,  
