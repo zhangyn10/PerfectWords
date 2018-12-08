@@ -51,23 +51,23 @@
    
 * >Do not fall in love with people like me.  
    I will take you to museums, and parks, and moments,  
-   <br>
+   &nbsp;  
    And kiss you in every beautiful place,  
    so that you can never go back to them  
    Without tasting me like blood in your mouth.  
-   <br>
+   &nbsp;  
    I will destroy you in the most beautiful way possible.  
    And when I leave you will finally understand,  
    why storms are named after people.  
    *译为：*  
    不要爱上像我这样的人，  
-   我会带你逛博物馆、公园、各种遗址，
-   <br>   
+   我会带你逛博物馆、公园、各种遗址，  
+   &nbsp;  
    在每个迷人的地方亲吻你，   
    以至于当你再回到这些地方时  
    已无法忘记与我亲吻的滋味，  
    就像口中含血一般。  
-   <br>
+   &nbsp;  
    我会以最美的方式将你毁掉。  
    而当你离我而去时，  
    你终将明白  
