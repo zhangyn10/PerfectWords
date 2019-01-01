@@ -14,32 +14,32 @@
     <session id="493558219">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.1" value="7" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.opened" value="12" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="15" />
+          <entry key="md" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="15" />
+          <entry key="Markdown" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="14856" />
+          <entry key="md" value="15229" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="14856" />
+          <entry key="Markdown" value="15229" />
         </counts>
       </usages-collector>
     </session>
@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/December1518.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1486">
+              <first_editor relative-caret-position="713">
                 <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
               </first_editor>
               <second_editor />
@@ -74,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/December1718.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="239">
+              <first_editor relative-caret-position="690">
                 <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="47" />
               </first_editor>
               <second_editor />
@@ -94,12 +94,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/December2718.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="469">
-                <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+              <first_editor relative-caret-position="308">
+                <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="47" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HappyNewYear.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
               </first_editor>
               <second_editor />
             </state>
@@ -134,6 +146,7 @@
         <option value="$PROJECT_DIR$/December1718.md" />
         <option value="$PROJECT_DIR$/December1918.md" />
         <option value="$PROJECT_DIR$/December2718.md" />
+        <option value="$PROJECT_DIR$/HappyNewYear.md" />
       </list>
     </option>
   </component>
@@ -204,18 +217,19 @@
       <workItem from="1545061296242" duration="1526000" />
       <workItem from="1545097485306" duration="3000" />
       <workItem from="1545234296014" duration="1026000" />
-      <workItem from="1545924680367" duration="1368000" />
+      <workItem from="1545924680367" duration="1416000" />
+      <workItem from="1546358171344" duration="585000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28141000" />
+    <option name="totallyTimeSpent" value="28774000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,7 +242,7 @@
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3192771" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3192771" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -293,6 +307,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/December1518.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="713">
+            <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/December1618.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -303,11 +327,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/December1518.md">
+    <entry file="file://$PROJECT_DIR$/December1718.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1486">
-            <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <first_editor relative-caret-position="690">
+            <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
@@ -323,21 +347,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/December1718.md">
+    <entry file="file://$PROJECT_DIR$/December2718.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="239">
-            <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="47" />
+          <first_editor relative-caret-position="308">
+            <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/December2718.md">
+    <entry file="file://$PROJECT_DIR$/HappyNewYear.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="469">
-            <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="68" selection-start-line="10" selection-start-column="68" selection-end-line="10" selection-end-column="68" />
           </first_editor>
           <second_editor />
         </state>
